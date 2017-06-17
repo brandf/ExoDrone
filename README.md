@@ -1,5 +1,5 @@
 # ExoDrone
-Exo is an open source drone frame design and isn't your typical drone frame.  Most frames are made of relatively thick flat sheets of carbon fiber.  They have to be 3-5mm thick because racing drones produce intense thrust and thinner flat sheets would flex under the load. For the Exo we asked the question "what would a frame look like if it wasn't limited to flat sheets?"  Here are some of the things that make the Exo design unique:
+Exo is a racing drone frame with a unique design. It isn't your typical drone frame.  Most frames are made of relatively thick flat sheets of carbon fiber.  They have to be 3-5mm thick because racing drones produce intense thrust and thinner flat sheets would flex under the load. For the Exo we asked the question "what would a frame look like if it wasn't limited to flat sheets?"  Here are some of the things that make the Exo design unique:
 
 1) 3D 'exo-skeleton' like design gives it strength along the axis of thrust, allowing for thinner/lighter/stronger materials and improved performance.
 2) Enclosed electronics are shielded from weather and crash damage.
