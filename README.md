@@ -7,7 +7,7 @@ Exo is a racing drone frame with a unique design. It isn't your typical drone fr
 
 ## What is an open source design?
 
-Just like open source software, drone frames can be built using the open source model.  This means that the design is free to use (print/build/fly), can be forked/modified to suit your needs, and benifits from the collaboration of a community.
+Just like open source software, drone frames can be built using the open source model.  This means that the design is free to use (print/build/fly), can be forked/modified to suit your needs, and benifits from the collaboration of a community.  As the electronics evolve, so will the Exo frame!
 
 # 3D Printing Instructions
 
